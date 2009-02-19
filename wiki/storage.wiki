@@ -1,8 +1,13 @@
-#summary One-sentence summary of this page.
+# key storage
 
 = Introduction =
 
-Add your content here.
+The storage is used to hold persistent data for cryptography algorithm. The stored data includes secret keys, public/private keys, certificates and other information.
+
+Other than providing access to it, Cryptoki does not attach any special meaning to a data 
+object. The following table lists the attributes supported by data objects, in addition to the 
+common attributes defined for this object class: 
+
 
 
 = Details =
