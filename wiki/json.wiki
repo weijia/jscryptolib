@@ -1,5 +1,7 @@
 #summary Cryptographic data syntax with JSON.
 
+
+{{{
 /* Digest Algorithms */
 
 var DigestAlgorithms = [
@@ -238,3 +240,5 @@ var ecPrivateKeyInfo = {
 	"privateKey": "0x3423948029834023",
 	"attributes": []
 };
+
+}}}
